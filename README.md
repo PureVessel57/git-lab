@@ -1,1 +1,2 @@
-Проект для практики Git
+пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ Git
+Purpose: learn git and software development
